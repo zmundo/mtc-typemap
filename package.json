@@ -1,0 +1,22 @@
+{
+  "name": "@zacharym/mtc-typemap",
+  "version": "1.0.0",
+  "description": "Standardize variables for mtconnect v1.3 and v1.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmundo/mtc-typemap.git"
+  },
+  "keywords": [
+    "mtconnect"
+  ],
+  "author": "zmundo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmundo/mtc-typemap/issues"
+  },
+  "homepage": "https://github.com/zmundo/mtc-typemap#readme"
+}
